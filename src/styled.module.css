@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 20px;
+  color: var(--tg-theme-text-color);
+  width: 100dvw;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .main {
+    width: 100%;
+
+    &.loaderWrapper {
+      padding-top: 30%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

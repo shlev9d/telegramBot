@@ -1,0 +1,1 @@
+export const API_URL = 'https://poker247tech.ru/get_horoscope/'
